@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mintbull/static/css/main.469c1fd7.chunk.css",
+    "main.js": "/mintbull/static/js/main.a77bf482.chunk.js",
+    "main.js.map": "/mintbull/static/js/main.a77bf482.chunk.js.map",
+    "runtime-main.js": "/mintbull/static/js/runtime-main.8fa7e81c.js",
+    "runtime-main.js.map": "/mintbull/static/js/runtime-main.8fa7e81c.js.map",
+    "static/js/2.24571699.chunk.js": "/mintbull/static/js/2.24571699.chunk.js",
+    "static/js/2.24571699.chunk.js.map": "/mintbull/static/js/2.24571699.chunk.js.map",
+    "static/js/3.f0963e33.chunk.js": "/mintbull/static/js/3.f0963e33.chunk.js",
+    "static/js/3.f0963e33.chunk.js.map": "/mintbull/static/js/3.f0963e33.chunk.js.map",
+    "index.html": "/mintbull/index.html",
+    "static/css/main.469c1fd7.chunk.css.map": "/mintbull/static/css/main.469c1fd7.chunk.css.map",
+    "static/js/2.24571699.chunk.js.LICENSE.txt": "/mintbull/static/js/2.24571699.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/mintbull/static/media/font.617a0a92.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fa7e81c.js",
+    "static/js/2.24571699.chunk.js",
+    "static/css/main.469c1fd7.chunk.css",
+    "static/js/main.a77bf482.chunk.js"
+  ]
+}
