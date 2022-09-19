@@ -1,0 +1,44 @@
+{
+  "name": "nfunnybulls_nft_minting_dapp",
+  "version": "1.0.0",
+  "description": "nfunnybulls minting dapp for your futures NFTs",
+  "private": true,
+  "homepage": "https://bzezene-max.github.io/mintbull",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-ga": "^3.3.1",
+    "react-redux": "^7.2.4",
+    "react-scripts": "4.0.3",
+    "redux": "^4.1.1",
+    "redux-thunk": "^2.3.0",
+    "styled-components": "^5.3.0",
+    "walletconnect": "^1.7.8",
+    "walletlink": "^2.5.0",
+    "web-vitals": "^1.0.1",
+    "web3": "^1.5.1",
+    "web3-eth-contract": "^1.5.2",
+    "web3-provider": "^1.0.0",
+    "web3modal": "^1.9.8"
+  },
+  "author": "NfunnyBulls Club",
+  "license": "MIT",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
